@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/intersections.cpp
+MeshTriangle.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/MeshTriangle.h
+triangle_triangle_intersection.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/triangle_triangle_intersection.h
+find_all_intersecting_pairs_using_AABBTrees.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/find_all_intersecting_pairs_using_AABBTrees.h
+Object.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/Object.h
+AABBTree.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/AABBTree.h
+warnings.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/warnings.h
+tictoc.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/tictoc.h
+visualize_aabbtree.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/visualize_aabbtree.h
+igl/read_triangle_mesh.h
+-
+Eigen/Core
+-
+iostream
+-
+iomanip
+-
+memory
+-
+

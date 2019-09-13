@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/rays.cpp
+ray_intersect_triangle_mesh_brute_force.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/ray_intersect_triangle_mesh_brute_force.h
+Ray.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/Ray.h
+MeshTriangle.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/MeshTriangle.h
+Object.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/Object.h
+AABBTree.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/AABBTree.h
+warnings.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/warnings.h
+VectorXb.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/VectorXb.h
+tictoc.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/tictoc.h
+visualize_aabbtree.h
+/Users/xiezili/Desktop/computer-graphics-bounding-volume-hierarchy/visualize_aabbtree.h
+igl/read_triangle_mesh.h
+-
+Eigen/Core
+-
+string
+-
+iostream
+-
+iomanip
+-
+memory
+-
+
